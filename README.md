@@ -9,6 +9,11 @@ ____
 
 <h2><a class="anchor" id= "Overview"></a>Overview</h2>
 
-This project is a "mini Expense tracker" throught which a person gives input(. And at the end of the He/She is able to Calculate the total expenses 
+This project is a "mini Expense tracker" throught which whenever the person do any expenditure then he have to provide basic detail of his Expenses (like Date, Category, Description, Amount). And at the end of the day He/She is able to View the total expenditure of the day.
+____
+
+<h2><a class="anchor" id= "Code"><a/>Code</h2>
+
+
 
 
