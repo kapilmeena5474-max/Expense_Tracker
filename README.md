@@ -1,2 +1,2 @@
 # AI Mini-Chatbot
-This is my first project.
+This is a AI chatbot.
